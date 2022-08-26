@@ -1,0 +1,25 @@
+{
+  "name": "word-check-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alonpatashnik/word-check-test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alonpatashnik/word-check-test/issues"
+  },
+  "homepage": "https://github.com/alonpatashnik/word-check-test#readme",
+  "dependencies": {
+    "check-if-word": "^1.2.1",
+    "express": "^4.18.1",
+    "inquirer": "^8.2.4",
+    "sequelize": "^6.21.3"
+  }
+}
